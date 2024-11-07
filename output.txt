@@ -1,0 +1,123 @@
+Testing individual numbers with runtime measurements:
+Number: 1027498106806225441
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 7050810642549651091
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 6155568815813781257
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 2912970412537579783
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 8348960580061273493
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 2407823242081768633
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 1383602730909524507
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 7116242705310218687
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 7.99441ms
+Number: 8042869108487301239
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+Number: 9015127525509429017
+  Prime according to: Miller–Rabin Test, Lucas Test, Baillie–PSW Test
+  Runtime - Miller–Rabin: 0.00000ms, Lucas: 0.00000ms, Baillie–PSW: 0.00000ms
+
+Total runtime for individual tests:
+  Miller–Rabin: 0.00000ms
+  Lucas: 0.00000ms
+  Baillie–PSW: 7.99441ms
+
+Testing ranges with runtime measurements:
+
+Range: [1027498106806225441, 1027498106806226441]
+  Miller–Rabin Test
+    Runtime: 16.39938ms
+  Lucas Test
+    Runtime: 8.53634ms
+  Baillie–PSW Test
+    Runtime: 9.72247ms
+
+Range: [7050810642549651091, 7050810642549652091]
+  Miller–Rabin Test
+    Runtime: 15.64670ms
+  Lucas Test
+    Runtime: 8.15296ms
+  Baillie–PSW Test
+    Runtime: 8.48007ms
+
+Range: [6155568815813781257, 6155568815813782257]
+  Miller–Rabin Test
+    Runtime: 16.31498ms
+  Lucas Test
+    Runtime: 16.16383ms
+  Baillie–PSW Test
+    Runtime: 8.17800ms
+
+Range: [2912970412537579783, 2912970412537589783]
+  Miller–Rabin Test
+    Runtime: 113.44790ms
+  Lucas Test
+    Runtime: 75.03080ms
+  Baillie–PSW Test
+    Runtime: 140.39278ms
+
+Range: [8348960580061273493, 8348960580061274493]
+  Miller–Rabin Test
+    Runtime: 21.31844ms
+  Lucas Test
+    Runtime: 13.77749ms
+  Baillie–PSW Test
+    Runtime: 20.89477ms
+
+Range: [2407823242081768633, 2407823242081769633]
+  Miller–Rabin Test
+    Runtime: 11.59739ms
+  Lucas Test
+    Runtime: 8.43167ms
+  Baillie–PSW Test
+    Runtime: 13.50641ms
+
+Range: [1383602730909524507, 1383602730909525507]
+  Miller–Rabin Test
+    Runtime: 13.74650ms
+  Lucas Test
+    Runtime: 11.03020ms
+  Baillie–PSW Test
+    Runtime: 13.03434ms
+
+Range: [7116242705310218687, 7116242705310219687]
+  Miller–Rabin Test
+    Runtime: 13.07893ms
+  Lucas Test
+    Runtime: 8.02279ms
+  Baillie–PSW Test
+    Runtime: 18.40591ms
+
+Range: [8042869108487301239, 8042869108487302239]
+  Miller–Rabin Test
+    Runtime: 12.39324ms
+  Lucas Test
+    Runtime: 8.39996ms
+  Baillie–PSW Test
+    Runtime: 14.03904ms
+
+Range: [9015127525509429017, 9015127525509439017]
+  Miller–Rabin Test
+    Runtime: 130.69773ms
+  Lucas Test
+    Runtime: 85.76083ms
+  Baillie–PSW Test
+    Runtime: 121.21654ms
+
+Total runtime for range tests:
+  Miller–Rabin: 364.64119ms
+  Lucas: 243.30688ms
+  Baillie–PSW: 367.87033ms
